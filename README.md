@@ -73,7 +73,7 @@ llm_as_judge_prototype/
 
 ## 🧪 Sample Document
 
-Use `data/FDD_PR_Approval_Report.docx` as a test case to see multi-agent evaluation in action.
+Use 'data/FDD_Vendor_Invoice_Enhancement.docx' as a test case to see multi-agent evaluation in action.
 
 ---
 
